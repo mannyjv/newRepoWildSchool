@@ -1,0 +1,15 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev --respawn src/hello.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
